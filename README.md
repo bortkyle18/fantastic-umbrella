@@ -45,7 +45,7 @@ You can view a more detailed walkthrough video [here]().
 ## Links
 [![GitHub](https://img.shields.io/badge/My%20GitHub-Click%20Here!-blueviolet?style=plastic&logo=GitHub)](https://github.com/bortkyle18)
 
-Github Repository: https://github.com/bortkyle18/employee-tracker
+Github Repository: https://github.com/bortkyle18/fantastic-umbrella
 
 
 ## Questions
