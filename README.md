@@ -31,7 +31,7 @@ Internet retail, also known as e-commerce, is the largest sector of the electron
 
 ![Screenshot of Insomnia test 3](./assets/pictures/13-orm-homework-demo-03.gif)
 
-You can view a more detailed walkthrough video [here]().
+You can view a more detailed walkthrough video [here](https://drive.google.com/file/d/1iT-elLG3Xi1Hgf7tzQCouvzqqsGprbAr/view).
 
 ## Built With
 
